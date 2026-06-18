@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias rotas
+
+This log tracks the cryptographic history and versioning for the song **Caricias rotas** (caricias-rotas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:31:45.673925 | `v1` | `afd7d6bf6d0c9664695c7868ac40ea189b914351712050c87eb74472023d1405` | `e3f86a205a525ac79823d86c4950ffe6d1656ba6713258b4d93675721a8e5aab` | `2026-06-18_caricias-rotas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
