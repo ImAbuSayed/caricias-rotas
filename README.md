@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-rotas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-rotas/) |
+| **Get License** | [Secure Licensing Rights for Caricias rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-rotas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus caricias rotas me tienen buscando más de ti,
+> En la calle oscura, nena, tú eres mi frenesí.
+> Un veneno dulce que me lleva hasta la perdición,
+> Dime qué me hiciste, mami, pa' robar mi corazón.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
